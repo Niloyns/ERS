@@ -38,7 +38,7 @@ app.use(
     store: new MongoStore(
       {
         mongoUrl:
-          "mongodb+srv://chaitanya:Chaitu%401503@cluster0.3rf5cgk.mongodb.net/?retryWrites=true&w=majority",
+          "mongodb+srv://niloysarkar1998:ld6SDS8XtdS7M8FO@cluster0.8e58vok.mongodb.net/?retryWrites=true&w=majority",
         autoRemove: "disabled",
       },
       function (err) {
